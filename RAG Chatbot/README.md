@@ -156,13 +156,6 @@ The frontend will run at `http://localhost:5173`
 
 ---
 
-## ▶️ Demo Video
-
-Watch a complete walkthrough of the chatbot here:  
-📺 [YouTube Link Placeholder – Add your video link here]
-
----
-
 ## 🧪 Optional: Deployment Notes
 
 To deploy this project:
